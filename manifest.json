@@ -1,0 +1,20 @@
+{
+  "name": "is Next.js site?",
+  "version": "0.1.0",
+  "description": "Shows you an icon when the site is built with Next.js",
+  "homepage_url": "https://twitter.com/giuseppegurgone/status/1376608823444656129",
+  "manifest_version": 2,
+  "minimum_chrome_version": "62",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": ["activeTab", "declarativeContent"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "is-next-site"
+  },
+  "web_accessible_resources": ["icon.png"]
+}
