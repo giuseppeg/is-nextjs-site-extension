@@ -4,7 +4,7 @@ Small browser extension that shows you an icon when the site is built with Next.
 
 <img width="398" alt="Screen Shot 2021-03-30 at 9 30 35 AM" src="https://user-images.githubusercontent.com/711311/112950593-bd00a980-913a-11eb-84f3-630738300395.png"><img width="398" alt="Screen Shot 2021-03-30 at 9 31 12 AM" src="https://user-images.githubusercontent.com/711311/112950587-bbcf7c80-913a-11eb-913f-edac1843652a.png">
 
-# Install instruction
+# Install instructions
 
 Download the source code in a local folder.
 
